@@ -1,5 +1,5 @@
 /**
-   * Made By nicoowrldx 🕴️
+   * Made By nicoowrldx
    * Subscribe nicoowrldx
    * Follow https://instagram.com/nicoowrldx
    * Follow https://github.com/14spee
