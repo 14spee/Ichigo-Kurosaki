@@ -1,18 +1,18 @@
 /**
-   * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
-   * Follow https://github.com/FBOTZ-YT
+   * Made By nicoowrldx 🕴️
+   * Subscribe nicoowrldx
+   * Follow https://instagram.com/nicoowrldx
+   * Follow https://github.com/14spee
 */
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285609233482', '0']
-global.ownerName = 'Fandyyy X All Creator'
-global.packname = 'Ichigo Kurosaki'
-global.author = 'Whatsapp Bot 2022'
+global.ownerNumber = ['4915678366725', '0']
+global.ownerName = 'nicoowrldx'
+global.packname = 'lightbot'
+global.author = 'nicoowrldx'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
 
